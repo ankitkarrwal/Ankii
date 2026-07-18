@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="0" passed="0" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-06-11T11:57:17 IST" name="Default suite" finished-at="2025-06-11T11:57:24 IST" duration-ms="7462">
+    <groups>
+    </groups>
+    <test started-at="2025-06-11T11:57:17 IST" name="Default test" finished-at="2025-06-11T11:57:24 IST" duration-ms="7462">
+      <class name="Launchtest">
+        <test-method is-config="true" signature="launch()[pri:0, instance:Launchtest@7817fd62]" started-at="2025-06-11T11:57:17 IST" name="launch" finished-at="2025-06-11T11:57:24 IST" duration-ms="7430" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+      </class> <!-- Launchtest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
